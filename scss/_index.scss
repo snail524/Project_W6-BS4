@@ -1,0 +1,32 @@
+
+.gray {
+    background-color: rgba(86, 61, 124, .15);
+}
+.gray_dark {
+    background-color: rgba(86, 61, 124, .15);
+}
+
+.container {
+    p {
+        margin-bottom: 20px;
+        font-weight: 300;
+    }
+    h2 {
+        margin-top: 15px;
+        margin-bottom: 10px;
+    }
+    .p-15 {
+        padding: 15px;
+    }
+    .span_pink {
+        font-size: 87.5%;
+        color: hsl(332, 79%, 58%);
+        word-break: break-word;
+        
+    }
+    b {
+        font-weight: bold;
+    }
+    .border-1{
+        border: 1px solid rgba(86, 61, 124, .2);  }
+}

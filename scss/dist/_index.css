@@ -1,0 +1,30 @@
+.gray {
+  background-color: rgba(86, 61, 124, 0.15);
+}
+
+.gray_dark {
+  background-color: rgba(86, 61, 124, 0.15);
+}
+
+.container p {
+  margin-bottom: 20px;
+  font-weight: 300;
+}
+.container h2 {
+  margin-top: 15px;
+  margin-bottom: 10px;
+}
+.container .p-15 {
+  padding: 15px;
+}
+.container .span_pink {
+  font-size: 87.5%;
+  color: #e93f8e;
+  word-break: break-word;
+}
+.container b {
+  font-weight: bold;
+}
+.container .border-1 {
+  border: 1px solid rgba(86, 61, 124, 0.2);
+}
